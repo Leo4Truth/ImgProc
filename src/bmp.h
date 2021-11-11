@@ -50,7 +50,7 @@ typedef struct tagRGBQUAD {
 #pragma pack(pop)
 
 #pragma pack(push, 1)
-    typedef struct BGR {
+typedef struct BGR {
     BYTE B;
     BYTE G;
     BYTE R;
